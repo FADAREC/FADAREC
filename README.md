@@ -14,9 +14,8 @@ Hey there! 👋 I'm Caleb, a tech enthusiast who loves building, breaking (somet
 ### Backend Development  
 - 🚀 **Laravel** – Why reinvent the wheel when it’s already turbocharged?  
 - 🌟 **Lumen** – Laravel’s lightweight sibling for when I’m feeling minimalistic.  
-- 🍰 **Flask** – Quick and easy, like your favorite snack.  
-- ⚡ **Node.js** – Non-blocking like a true multitasker.  
-- 🐍 **Django** - You have a deadline in 24 hrs innit?? This guy can help with the backend thingy--Just to some point tho :)
+- 🍰 **Flask** – Quick and easy, like your favorite snack. 
+- 🐍 **Django** - You have a deadline in few hrs innit?? This guy can help with the backend thingy--Just to some point tho :)
 
 ### Frontend Development  
 - 🏗 **HTML5** – Where every great app begins.  
