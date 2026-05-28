@@ -1,60 +1,48 @@
-# 🌟 Fadare Caleb Tomiwa's Tech Stack and Interests  
+## Caleb Fadare — Backend Engineer
 
-Hey there! 👋 I'm Caleb, a tech enthusiast who loves building, breaking (sometimes on purpose), and fixing things 🔧💻. I specialize in turning caffeine ☕ and creativity 🎨 into functional, efficient code. When I'm not coding, I'm probably imagining a world where every bug fixes itself.  
-
----
-
-## 🛠 Primary Tech Stack  
-
-### Programming Languages  
-- 🐍 **Python** – My first love. Clean, elegant, and occasionally magical.  
-- 🐘 **PHP** – Because backend devs deserve some love too.  
-- 🖥️ **C** – The OG powerhouse—manual memory management? Bring it on!   
-
-### Backend Development  
-- 🚀 **Laravel** – Why reinvent the wheel when it’s already turbocharged?  
-- 🌟 **Lumen** – Laravel’s lightweight sibling for when I’m feeling minimalistic.  
-- 🍰 **Flask** – Quick and easy, like your favorite snack. 
-- 🐍 **Django** - You have a deadline in few hrs innit?? This guy can help with the backend thingy--Just to some point tho :)
-
-### Frontend Development  
-- 🏗 **HTML5** – Where every great app begins.  
-- 🎨 **CSS3** – Turning “meh” designs into masterpieces.  
-- ⚛ **React** – Because dynamic UIs are fun (until they aren’t).  
-
-### Databases  
-- 🏠 **MySQL** – The reliable classic.  
-- 💼 **MSSQL** – Enterprise-approved and ready to work.  
-- 📜 **SQLite** – Lightweight and perfect for smaller projects.  
-
-### Cloud Hosting  
-- ☁️ **Netlify** – Deploy, chill, repeat.  
-- ⚡ **Vercel** – Speed and sleekness combined.  
-- 🔮 **Heroku** – Push, deploy, and let Heroku do the magic.  
+I build systems that run in production, not just on localhost.
+Based in Lagos, Nigeria. Available for remote work.
 
 ---
 
-## ⚡ Areas of Interest  
+### What I'm working with
 
-### 🌟 **Automating Development Workflows** 🤖  
-Who has time for repetitive tasks? Not me tho. I build tools and scripts to make life fun (and much more easier).  
-
-### 🌟 **Innovative Application Development** 💡  
-Creating apps that don’t just look good—they actually solve problems. Functional *and* fancy? Yes, please!  
-
-### 🌟 **API Development** 🔌  
-Designing APIs so smooth, you’ll think they were made of butter. 🧈  
-
-### 🌟 **Mentorship** 🎓  
-Teaching and guiding others to explore the wild world of tech. Bonus: they sometimes teach me things too (humbling moments included).  
-
-### 🌟 **Cybersecurity Exploration** 🛡️  
-Currently dabbling in the cybersecurity universe. Not breaking into systems... just *gently* poking around. 😏  
-
-### 🌟 **System Optimization** ⚙️  
-Why settle for "it works" when you can make it work *better*? I’ll spend hours optimizing code to save milliseconds. It’s a lifestyle.  
+**Languages:** TypeScript, JavaScript, Python, Go, PHP, SQL  
+**Backend:** Node.js/Express, FastAPI, Laravel  
+**Frontend:** React, Tailwind CSS  
+**Databases:** PostgreSQL, MySQL, Microsoft SQL Server  
+**Tools:** Docker, Drizzle ORM, Git, Postman, GitHub Actions  
 
 ---
 
-### Why Work With Me? 🤔  
-I’m not just here to write code—I’m here to craft solutions. Add in a sprinkle of humor 😂, a dash of curiosity 🧐, and a whole lot of determination 💪, and you’ve got a teammate who’s ready to tackle anything (and have a little fun along the way).  
+### Selected Work
+
+**Caperberry Fabric Care** — Full laundry management platform  
+Customer booking, live order tracking, admin dashboard  
+`Node.js · TypeScript · PostgreSQL · React`  
+→ [caperberry-fabric-care.onrender.com](https://caperberry-fabric-care.onrender.com)
+
+**TonerTrack** — Printer toner inventory system  
+Real-time monitoring, smart alerts, role-based auth  
+`FastAPI · PostgreSQL · React`  
+→ [Live API Docs](https://print-track-backend.onrender.com/docs)
+
+**The Lagos Store** — E-commerce + POS system  
+Real-time inventory, physical sales module  
+`React · Express · PostgreSQL`
+
+**Nemeydy Fashion Hub** — E-commerce website  
+Product catalog, mobile-first, clean UI  
+`React · TypeScript · Tailwind`
+→ [Nemeydy Fashion Hub](https://v0-nemeydy-fashion-hub-website.vercel.app/)
+
+---
+
+### Currently building
+Mobile invoicing app — Flutter + Go + PostgreSQL  
+Invoice creation, client tracking, payment reminders, PDF export
+
+---
+
+📬 caleb001f@gmail.com  
+🌐 [fadarec.github.io](https://fadarec.github.io)
