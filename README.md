@@ -24,7 +24,7 @@ Customer booking, live order tracking, admin dashboard
 
 **TonerTrack** — Printer toner inventory system  
 Real-time monitoring, smart alerts, role-based auth  
-`FastAPI · PostgreSQL · React`  
+`FastAPI · SQLite · React`  
 → [Live API Docs](https://print-track-backend.onrender.com/docs)
 
 **The Lagos Store** — E-commerce + POS system  
