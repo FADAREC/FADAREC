@@ -31,8 +31,8 @@ Real-time monitoring, smart alerts, role-based auth
 Real-time inventory, physical sales module  
 `React · Express · PostgreSQL`
 
-**Nemeydy Fashion Hub** — E-commerce website  
-Product catalog, mobile-first, clean UI  
+**Nemeydy Fashion Hub** — E-commerce concept build
+Spec project: product catalog, mobile-first design, clean UI 
 `React · TypeScript · Tailwind`
 → [Nemeydy Fashion Hub](https://v0-nemeydy-fashion-hub-website.vercel.app/)
 
